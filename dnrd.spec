@@ -3,7 +3,7 @@
 # - .init
 #
 Summary:	Domain Name Relay Daemon
-Summary(pl.UTF-8):   Domain Name Relay Daemon - buforujący serwer proxy DNS
+Summary(pl.UTF-8):	Domain Name Relay Daemon - buforujący serwer proxy DNS
 Name:		dnrd
 Version:	2.20.1
 Release:	0.1
