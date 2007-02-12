@@ -3,7 +3,7 @@
 # - .init
 #
 Summary:	Domain Name Relay Daemon
-Summary(pl):	Domain Name Relay Daemon - buforuj±cy serwer proxy DNS
+Summary(pl.UTF-8):   Domain Name Relay Daemon - buforujÄ…cy serwer proxy DNS
 Name:		dnrd
 Version:	2.20.1
 Release:	0.1
@@ -21,10 +21,10 @@ Domain Name Relay Daemon is a caching, forwarding DNS proxy server.
 Most useful on VPN or dialup firewalls but it is also a nice DNS cache
 for minor networks and workstations.
 
-%description -l pl
-Domain Name Relay Daemon to buforuj±cy, przekazuj±cy serwer proxy DNS.
-Jest najbardziej przydatny na firewallach dla VPN-ów lub po³±czeñ
-wdzwanianych, ale jest tak¿e przyjemnym buforem DNS dla ma³ych sieci i
+%description -l pl.UTF-8
+Domain Name Relay Daemon to buforujÄ…cy, przekazujÄ…cy serwer proxy DNS.
+Jest najbardziej przydatny na firewallach dla VPN-Ã³w lub poÅ‚Ä…czeÅ„
+wdzwanianych, ale jest takÅ¼e przyjemnym buforem DNS dla maÅ‚ych sieci i
 stacji roboczych.
 
 %prep
